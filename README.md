@@ -8,16 +8,16 @@ Data flow  (ETL pipeline) :
 
 **1. Data ingestion**
 
-Load raw data into Snowflake Stage using SnowSQL CLI
-Copy data from SF Internal stage to Landing layer
+    Load raw data into Snowflake Stage using SnowSQL CLI
+    Copy data from SF Internal stage to Landing layer
 
 **2. Data transformation**
 
-Perform data transformations (flatten JSON data and load as relational tables) and move data to Curated layer
+    Perform data transformations (flatten JSON data and load as relational tables) and move data to Curated layer
 
 **3. Dimensional modelling**
 
-Create fact and dimenion tables and move data to Consumption layer
+    Create fact and dimenion tables and move data to Consumption layer
 
 **4. Data visualization** (using Power BI)
 
