@@ -17,5 +17,6 @@ Create fact and dimenion tables and move data to Consumption layer
 
 4.Data visualizatin (using Power BI)
 
+![image](https://github.com/AniketRathod305/Cricket_Data_Engineering/assets/70813453/95cd1ff8-2992-4675-8150-8ec3bb42572e)
 
 
