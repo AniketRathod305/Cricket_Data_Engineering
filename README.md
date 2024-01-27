@@ -3,7 +3,7 @@ End to end Data engineering solution for ODI cricket dataset using Snowflake - C
 Dataset - All ODI cricket matches (played between 2000 and 2023) data 
 Format - Dataset includes JSON file for each match containing all information
 
-**Data flow  (ETL pipeline) : ** 
+**Data flow  (ETL pipeline) :  **
 
 **1.Data ingestion**
 Load raw data into Snowflake Stage using SnowSQL CLI
