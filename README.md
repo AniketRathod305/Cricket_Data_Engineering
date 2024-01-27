@@ -21,7 +21,11 @@ Data flow  (ETL pipeline) :
 
 **4. Data visualization** (using Power BI)
 
-**5. Automate entire process** from Ingestion (Raw layer) to loading to Consumption layer via Snowflake Streams and Tasks.
+    Load fact and dimension tables fro Snowflake to Power BI and create dashboards
+
+**5. ETL pipeline** 
+
+     Create ETL pipeline to Automate - Ingestion (Raw layer) to loading to Consumption layer via Snowflake Streams and Tasks.
 
 Screenshots - 
 
