@@ -25,7 +25,7 @@ Data flow  (ETL pipeline) :
 
 **5. ETL pipeline** 
 
-     Create ETL pipeline to Automate - Ingestion (Raw layer) to loading to Consumption layer via Snowflake Streams and Tasks.
+    Create ETL pipeline to Automate - Ingestion (Raw layer) to loading to Consumption layer via Snowflake Streams and Tasks.
 
 Screenshots - 
 
